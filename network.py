@@ -36,4 +36,4 @@ if(my_gateways.__contains__(gateway)):
     setIpAddr('ens33', ip,gateway)
 else:
     print("Localizacion no reconocida.")
-    print("Establezco ip por dhcp")
+    print("Alonso")
